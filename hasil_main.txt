@@ -1,0 +1,13 @@
+DATA AWAL
+BRG-001 | Keyboard USB | tersedia: 10
+BRG-002 | Mouse USB | tersedia: 8
+BRG-003 | Kabel HDMI | tersedia: 12
+SETELAH TRANSAKSI CONTOH
+BRG-001 | Keyboard USB | tersedia: 9
+BRG-002 | Mouse USB | tersedia: 8
+BRG-003 | Kabel HDMI | tersedia: 9
+Kabel gagal dipinjam: Barang tersedia tidak mencukupi.
+Kabel tersedia: 9
+Gagal: Barang tersedia tidak mencukupi.
+Keyboard tersedia: 9
+BUILD SUCCESSFUL (total time: 2 seconds)

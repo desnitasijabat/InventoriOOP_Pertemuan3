@@ -1,0 +1,19 @@
+TABEL PENELUSURAN KEYBOARD
+
+Langkah         | Keyboard tersedia | Alasan
+Constructor     | 10                | Nilai awal valid
+pinjam(3)       | 7                 | 10 dikurangi 3
+kembalikan(2)   | 9                 | 7 ditambah 2
+pinjam(100)     | 9                 | Validasi menolak sebelum perubahan
+
+Mouse tetap tersedia 8 karena tidak menerima operasi perubahan.
+Daftar menampilkan perubahan keyboard karena berisi referensi objek keyboard yang sama.
+
+
+TABEL PENELUSURAN KABEL HDMI
+
+Langkah         | Kabel tersedia | Alasan
+Constructor     | 12             | Nilai awal valid
+pinjam(4)       | 8              | 12 dikurangi 4
+kembalikan(1)   | 9              | 8 ditambah 1
+pinjam(20)      | 9              | Validasi menolak sebelum perubahan

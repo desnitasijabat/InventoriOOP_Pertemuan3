@@ -1,0 +1,22 @@
+LULUS 1: Constructor dan trim
+LULUS 2: Kode null
+LULUS 3: Kode kosong
+LULUS 4: Nama null
+LULUS 5: Nama kosong
+LULUS 6: Jumlah awal negatif
+LULUS 7: Jumlah awal nol
+LULUS 8: Pinjam valid
+LULUS 9: Kembali valid
+LULUS 10: Pinjam nol
+LULUS 11: Pinjam negatif
+LULUS 12: Pinjam melebihi tersedia
+LULUS 13: Pinjam gagal menjaga keadaan
+LULUS 14: Kembali nol
+LULUS 15: Kembali negatif
+LULUS 16: Kembali gagal menjaga keadaan
+LULUS 17: Overflow pengembalian
+LULUS 18: Overflow menjaga keadaan
+LULUS 19: Pinjam seluruh tersedia
+LULUS 20: List menyimpan referensi yang sama
+TOTAL: 20 pengujian lulus.
+BUILD SUCCESSFUL (total time: 1 second)
